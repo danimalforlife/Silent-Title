@@ -1,0 +1,9 @@
+title: Silent Title
+originalAuthor: danimalforlife
+description: Randomizer breaks the ToggleBGM lua on the title screen so this mod changes Dearly Beloved to 0.001 seconds of silence.
+
+assets:
+- name: vagstream\Title.win32.scd
+  method: copy
+  source:
+  - name: silence.scd
