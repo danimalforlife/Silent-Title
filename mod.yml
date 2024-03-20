@@ -7,3 +7,27 @@ assets:
   method: copy
   source:
   - name: silence.scd
+- name: vagstream\End_Piano.win32.scd
+  method: copy
+  source:
+  - name: silence.scd
+- name: vagstream\GM1_Asteroid.win32.scd
+  method: copy
+  source:
+  - name: silence.scd
+- name: vagstream\GM2_Highway.win32.scd
+  method: copy
+  source:
+  - name: silence.scd
+- name: vagstream\GM3_Cloud.win32.scd
+  method: copy
+  source:
+  - name: silence.scd
+- name: vagstream\GM4_Floating.win32.scd
+  method: copy
+  source:
+  - name: silence.scd
+- name: vagstream\GM5_Senkan.win32.scd
+  method: copy
+  source:
+  - name: silence.scd
